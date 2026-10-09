@@ -10,6 +10,8 @@
     pip-compile requirements.in
 
 
+Для работы под Windows 7 64-bit последней версией является Python 3.8.10 64-bit.
+
 Установка:
 
 1. Зайти на машину с Zabbix-агентом.
