@@ -15,9 +15,9 @@
 Установка:
 
 1. Зайти на машину с Zabbix-агентом.
-2. Создать папку "C:\Program Files\Zabbix Ping".
+2. Создать папку "C:\\Program Files\\Zabbix Ping".
 3. Скопировать в неё "zabbix_ping.exe".
-4. В папку "C:\Program Files\Zabbix Agent\zabbix_agentd.d" скопировать "zabbix_ping.conf".
+4. В папку "C:\\Program Files\\Zabbix Agent\\zabbix_agentd.d" скопировать "zabbix_ping.conf".
 5. Перезапустить сервис Zabbix-агента.
 6. Открыть веб-интерфейс Zabbix-сервера.
 7. Перейти в "Configuration" → "Hosts".
